@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.coms.ru/dit/opn.git
+git remote add origin https://gitlab.coms.ru/dit/mkr.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.coms.ru/dit/opn/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.coms.ru/dit/mkr/-/settings/integrations)
 
 ## Collaborate with your team
 
